@@ -1,2 +1,2 @@
 # Clansman
-DDS upgradesfor te Clansman 320 hf radio
+DDS upgrade for the Clansman 320 hf radio
